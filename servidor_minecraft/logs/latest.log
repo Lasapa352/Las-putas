@@ -1,0 +1,42 @@
+[20:52:26] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:52:27] [ServerMain/INFO]: No existing world data, creating new world
+[20:52:27] [ServerMain/INFO]: Loaded 1407 recipes
+[20:52:27] [ServerMain/INFO]: Loaded 1520 advancements
+[20:52:28] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[20:52:28] [Server thread/INFO]: Loading properties
+[20:52:28] [Server thread/INFO]: Default game type: SURVIVAL
+[20:52:28] [Server thread/INFO]: Generating keypair
+[20:52:28] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:52:28] [Server thread/INFO]: Using epoll channel type
+[20:52:28] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:52:28] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:52:28] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:52:28] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:52:28] [Server thread/INFO]: Preparing level "world"
+[20:52:34] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:52:34] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[20:52:35] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[20:52:35] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[20:52:35] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[20:52:36] [Worker-Main-1/INFO]: Preparing spawn area: 18%
+[20:52:36] [Worker-Main-1/INFO]: Preparing spawn area: 18%
+[20:52:37] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[20:52:38] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[20:52:38] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[20:52:38] [Server thread/INFO]: Time elapsed: 4349 ms
+[20:52:38] [Server thread/INFO]: Done (10.568s)! For help, type "help"
+[20:52:38] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:52:38] [Server thread/INFO]: bin/python3 /workspaces/Las-putas/msx.py<--[HERE]
+[20:53:38] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[20:58:55] [Server thread/INFO]: CJgoon[/127.78.79.220:48149] logged in with entity id 1 at (-540.5, 65.0, 53.5)
+[20:58:55] [Server thread/INFO]: CJgoon joined the game
+[21:04:33] [Server thread/INFO]: CJgoon was killed
+[21:04:33] [Server thread/INFO]: Killed CJgoon
+[21:08:47] [Server thread/INFO]: Set the time to 1000
+[21:19:37] [Server thread/INFO]: Set the time to 1000
+[21:19:54] [Server thread/INFO]: CJgoon has made the advancement [Monster Hunter]
+[21:20:17] [Server thread/INFO]: Gave 64 [Carrot] to CJgoon
+[21:28:13] [Server thread/INFO]: Gave 700 [Oak Planks] to CJgoon
+[21:30:46] [Server thread/INFO]: CJgoon has made the advancement [Sweet Dreams]
+[21:31:50] [Server thread/INFO]: CJgoon lost connection: Disconnected
+[21:31:50] [Server thread/INFO]: CJgoon left the game
