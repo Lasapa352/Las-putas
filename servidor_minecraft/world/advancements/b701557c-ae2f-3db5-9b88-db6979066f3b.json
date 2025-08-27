@@ -302,7 +302,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "golden_apple": "2025-08-27 22:57:08 +0000",
-      "bread": "2025-08-27 21:07:48 +0000"
+      "bread": "2025-08-27 21:07:48 +0000",
+      "melon_slice": "2025-08-27 23:44:07 +0000"
     },
     "done": false
   },
@@ -1833,6 +1834,18 @@
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2025-08-27 23:36:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wind_charge": {
+    "criteria": {
+      "has_breeze_rod": "2025-08-27 23:45:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/mace": {
+    "criteria": {
+      "has_heavy_core": "2025-08-27 23:45:38 +0000"
     },
     "done": true
   },
