@@ -25,3 +25,36 @@
 [20:20:00] [Server thread/INFO]: CJgoon[/127.20.83.237:39425] logged in with entity id 72 at (8.685649072876837, 77.0, 76.59497239079113)
 [20:20:00] [Server thread/INFO]: CJgoon joined the game
 [20:20:16] [Server thread/INFO]: Set the time to 1000
+[20:27:14] [Server thread/INFO]: CJgoon lost connection: Disconnected
+[20:27:14] [Server thread/INFO]: CJgoon left the game
+[20:28:14] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[20:28:35] [Server thread/INFO]: MONARKA[/127.20.83.237:48287] logged in with entity id 1015 at (22.5, 75.0, 82.5)
+[20:28:35] [Server thread/INFO]: MONARKA joined the game
+[20:28:43] [Server thread/INFO]: CJgoon[/127.20.83.237:44293] logged in with entity id 1138 at (11.633871318883024, 77.0, 72.79541893087551)
+[20:28:43] [Server thread/INFO]: CJgoon joined the game
+[20:29:19] [Server thread/INFO]: MONARKA was slain by CJgoon
+[20:30:00] [Server thread/INFO]: Incorrect argument for command
+[20:30:00] [Server thread/INFO]: weather set clear<--[HERE]
+[20:30:09] [Server thread/INFO]: Set the weather to clear
+[20:31:13] [Server thread/INFO]: MONARKA has made the advancement [Stone Age]
+[20:31:20] [Server thread/INFO]: MONARKA has made the advancement [Getting an Upgrade]
+[20:31:25] [Server thread/INFO]: CJgoon has made the advancement [Stone Age]
+[20:32:42] [Server thread/INFO]: CJgoon has made the advancement [Monster Hunter]
+[20:32:56] [Server thread/INFO]: CJgoon has made the advancement [Getting an Upgrade]
+[20:34:43] [Server thread/INFO]: MONARKA has made the advancement [Monster Hunter]
+[20:35:06] [Server thread/INFO]: MONARKA was slain by CJgoon
+[20:35:20] [Server thread/INFO]: Teleported MONARKA to CJgoon
+[20:35:57] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:35:57] [Server thread/INFO]: fall damage off<--[HERE]
+[20:45:47] [Server thread/INFO]: MONARKA has made the advancement [Acquire Hardware]
+[20:45:55] [Server thread/INFO]: MONARKA has made the advancement [Isn't It Iron Pick]
+[20:46:04] [Server thread/INFO]: CJgoon has made the advancement [Isn't It Iron Pick]
+[20:50:53] [Server thread/INFO]: CJgoon fell from a high place
+[20:53:00] [Server thread/INFO]: CJgoon has made the advancement [Not Today, Thank You]
+[20:55:03] [Server thread/INFO]: MONARKA has made the advancement [Not Today, Thank You]
+[20:55:13] [Server thread/INFO]: MONARKA was impaled by Drowned
+[20:55:55] [Server thread/INFO]: CJgoon was slain by Zombie
+[20:55:59] [Server thread/INFO]: CJgoon lost connection: Disconnected
+[20:55:59] [Server thread/INFO]: CJgoon left the game
+[20:55:59] [Server thread/INFO]: MONARKA lost connection: Disconnected
+[20:55:59] [Server thread/INFO]: MONARKA left the game
