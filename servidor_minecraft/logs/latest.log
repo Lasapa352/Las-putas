@@ -105,3 +105,16 @@
 [01:21:30] [Server thread/INFO]: [CJgoon: Gave 1 [String] to MONARKA]
 [01:22:59] [Server thread/INFO]: [CJgoon: Gave 1 [String] to MONARKA]
 [01:23:08] [Server thread/INFO]: [CJgoon: Gave 1 [Slimeball] to MONARKA]
+[01:23:59] [Server thread/INFO]: [CJgoon: Gave 10 [String] to MONARKA]
+[01:25:00] [Server thread/INFO]: [CJgoon: Teleported CJgoon to MONARKA]
+[01:28:15] [Server thread/INFO]: CJgoon has made the advancement [A Throwaway Joke]
+[01:28:34] [Server thread/INFO]: [CJgoon: The game is frozen]
+[01:29:09] [Server thread/INFO]: MONARKA fell from a high place
+[01:29:12] [Server thread/INFO]: [CJgoon: The game is running normally]
+[01:31:45] [Server thread/INFO]: MONARKA lost connection: Disconnected
+[01:31:45] [Server thread/INFO]: MONARKA left the game
+[01:32:13] [Server thread/INFO]: [CJgoon: The game is frozen]
+[01:33:02] [Server thread/INFO]: [CJgoon: The game is running normally]
+[01:33:13] [Server thread/WARN]: CJgoon moved too quickly! 10.048253572545946,0.0,3.7149154357612133
+[01:33:19] [Server thread/WARN]: CJgoon moved too quickly! 10.88471410702914,0.0,0.2566091809421778
+[01:50:25] [Server thread/INFO]: [CJgoon: Set the time to 1000]
