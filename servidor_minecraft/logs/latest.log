@@ -1,138 +1,34 @@
-[00:00:50] [Server thread/INFO]: Set the time to 1000
-[00:03:54] [Server thread/WARN]: MONARKA moved too quickly! -4.976542806859925,-2.8245767040478995,8.589877972876536
-[00:03:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
-[00:06:00] [Server thread/INFO]: Gave 500 [Dirt] to CJgoon
-[00:07:38] [Server thread/INFO]: Gave 20 [Carrot] to CJgoon
-[00:08:15] [Server thread/INFO]: CJgoon lost connection: Disconnected
-[00:08:15] [Server thread/INFO]: CJgoon left the game
-[00:08:23] [Server thread/INFO]: CJgoon[/127.20.83.237:52553] logged in with entity id 8401 at (-211.84469301838834, 64.0, 167.6636353898571)
-[00:08:23] [Server thread/INFO]: CJgoon joined the game
-[00:10:38] [Server thread/INFO]: CJgoon lost connection: Timed out
-[00:10:38] [Server thread/INFO]: CJgoon left the game
-[00:10:40] [Server thread/INFO]: CJgoon[/127.20.83.237:35077] logged in with entity id 9876 at (-206.93402451806503, 64.0, 199.5214391616694)
-[00:10:40] [Server thread/INFO]: CJgoon joined the game
-[00:20:12] [Server thread/INFO]: Made CJgoon a server operator
-[00:20:50] [Server thread/INFO]: [CJgoon: Set the weather to clear]
-[00:23:57] [Server thread/INFO]: Gave 127 [Carrot] to MONARKA
-[00:24:09] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=1901, y=116, z=1238} jb{x=1902, y=116, z=1239}
-[00:32:37] [Server thread/INFO]: CJgoon lost connection: Disconnected
-[00:32:37] [Server thread/INFO]: CJgoon left the game
-[00:32:42] [Server thread/INFO]: CJgoon[/127.20.83.237:60101] logged in with entity id 24729 at (-225.86139711579773, 67.31702953440342, 211.68335398715274)
-[00:32:42] [Server thread/INFO]: CJgoon joined the game
-[00:33:57] [Server thread/INFO]: Locating element minecraft:cherry_grove took 966 ms
-[00:34:20] [Server thread/INFO]: [CJgoon: Teleported MONARKA to 372.500000, 64.000000, 514.412903]
-[00:35:24] [Server thread/INFO]: [CJgoon: Teleported MONARKA to CJgoon]
-[00:35:42] [Server thread/INFO]: Locating element minecraft:cherry_grove took 1001 ms
-[00:35:54] [Server thread/INFO]: [CJgoon: Set the time to 1000]
-[00:36:08] [Server thread/INFO]: Locating element minecraft:cherry_grove took 903 ms
-[00:37:29] [Server thread/INFO]: Gave 89 [Carrot] to CJgoon
-[00:39:19] [Server thread/INFO]: [CJgoon: Teleported CJgoon to 1026.500000, 64.000000, -1493.500000]
-[00:39:29] [Server thread/INFO]: CJgoon suffocated in a wall
-[00:39:42] [Server thread/INFO]: [CJgoon: Set own game mode to Creative Mode]
-[00:39:48] [Server thread/INFO]: [CJgoon: Teleported CJgoon to 1026.500000, 64.000000, -1493.500000]
-[00:41:09] [Server thread/INFO]: [CJgoon: Teleported CJgoon to 77445.500000, 159.481800, 33074.459553]
-[00:41:30] [Server thread/INFO]: Locating element minecraft:cherry_grove took 860 ms
-[00:41:33] [Server thread/INFO]: [CJgoon: Teleported CJgoon to 79015.500000, -37.000000, 34194.500000]
-[00:41:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3745ms or 74 ticks behind
-[00:42:21] [Server thread/INFO]: [CJgoon: Teleported CJgoon to 9999999.500000, 125.251166, 10034201.888235]
-[00:42:24] [Server thread/WARN]: MONARKA moved too quickly! 4.621467750509765,-0.756759288177264,-9.375739494720879
-[00:42:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2593ms or 51 ticks behind
-[00:42:52] [Server thread/INFO]: Locating element minecraft:cherry_grove took 1054 ms
-[00:42:55] [Server thread/INFO]: [CJgoon: Teleported CJgoon to 10001352.500000, 121.000000, 10032552.500000]
-[00:44:09] [Server thread/INFO]: [CJgoon: Teleported CJgoon to 5443225.500000, 142.451335, 13453725.903256]
-[00:44:30] [Server thread/WARN]: CJgoon moved too quickly! -1.0760756358504295,-10.791263155724295,1.5900162514299154
-[00:45:17] [Server thread/INFO]: Villager cuf['Nitwit'/33427, l='ServerLevel[world]', x=5443127.63, y=66.00, z=13454110.28] died, message: 'Nitwit suffocated in a wall'
-[00:45:21] [Server thread/INFO]: [CJgoon: Set the time to 1000]
-[00:45:29] [Server thread/INFO]: Locating element minecraft:cherry_grove took 51 ms
-[00:45:34] [Server thread/INFO]: [CJgoon: Teleported CJgoon to 5442755.500000, 80.000000, 13454562.500000]
-[00:46:51] [Server thread/INFO]: [CJgoon: Teleported MONARKA to CJgoon]
-[00:47:17] [Server thread/INFO]: MONARKA was smashed by CJgoon
-[00:47:26] [Server thread/INFO]: [CJgoon: Teleported MONARKA to CJgoon]
-[00:51:00] [Server thread/INFO]: CJgoon was killed
-[00:51:00] [Server thread/INFO]: [CJgoon: Killed CJgoon]
-[00:51:06] [Server thread/INFO]: [CJgoon: Set own game mode to Survival Mode]
-[00:51:14] [Server thread/INFO]: [CJgoon: Set own game mode to Creative Mode]
-[00:52:31] [Server thread/INFO]: MONARKA has made the advancement [The Parrots and the Bats]
-[00:53:44] [Server thread/INFO]: MONARKA has made the advancement [Stay Hydrated!]
-[00:54:47] [Server thread/INFO]: [CJgoon: Set the time to 1000]
-[00:54:56] [Server thread/INFO]: [Not Secure] <CJgoon> el barra ban
-[00:55:24] [Server thread/WARN]: CJgoon moved too quickly! -6.414973453971044,0.0,-8.51750866380047
-[00:56:37] [Server thread/WARN]: CJgoon moved too quickly! 0.6644937266386535,3.7466194923685094,-10.144749060433696
-[00:57:35] [Server thread/WARN]: CJgoon moved too quickly! 4.7918768793483935,0.0,-9.745759622934202
-[00:57:36] [Server thread/INFO]: MONARKA has made the advancement [A Seedy Place]
-[00:58:33] [Server thread/INFO]: [CJgoon: Played sound minecraft:ambient.crimson_forest.mood to CJgoon]
-[01:00:43] [Server thread/WARN]: CJgoon moved too quickly! 7.898962348631642,3.7497372691510122,-6.481226176874088
-[01:00:54] [Server thread/WARN]: CJgoon moved too quickly! 9.56998684508767,0.0,-5.191190891529914
-[01:01:46] [Server thread/WARN]: CJgoon moved too quickly! 10.570158518508151,0.0,2.494389079775601
-[01:02:02] [Server thread/WARN]: CJgoon moved too quickly! 10.585047115298266,0.0,2.3264712744205553
-[01:02:28] [Server thread/WARN]: CJgoon moved too quickly! 8.071512203472139,5.6250002235164445,-3.3004593064547407
-[01:02:40] [Server thread/WARN]: CJgoon moved too quickly! 9.511424144466673,1.7572195907136745,-4.978485184392866
-[01:02:40] [Server thread/INFO]: CJgoon lost connection: Disconnected
-[01:02:40] [Server thread/INFO]: CJgoon left the game
-[01:02:51] [Server thread/INFO]: com.mojang.authlib.GameProfile@112129e7[id=314f1660-8e99-3248-a179-827b06cea698,name=CJgoon,properties={}] lost connection: Disconnected
-[01:02:53] [Server thread/INFO]: CJgoon[/127.20.83.237:48407] logged in with entity id 49749 at (1917.8633051276877, 84.89039791137515, -1938.395050903885)
-[01:02:53] [Server thread/INFO]: Connection closed during protocol change
-[01:02:53] [Server thread/INFO]: CJgoon joined the game
-[01:02:53] [Server thread/INFO]: CJgoon lost connection: Disconnected
-[01:02:53] [Server thread/INFO]: CJgoon left the game
-[01:02:58] [Server thread/INFO]: CJgoon (/127.20.83.237:60631) lost connection: Disconnected
-[01:03:03] [Server thread/INFO]: CJgoon (/127.20.83.237:38631) lost connection: Disconnected
-[01:03:05] [Server thread/INFO]: CJgoon (/127.20.83.237:50931) lost connection: Disconnected
-[01:03:08] [Server thread/INFO]: CJgoon[/127.20.83.237:55017] logged in with entity id 49801 at (1917.8633051276877, 84.89039791137515, -1938.395050903885)
-[01:03:08] [Server thread/INFO]: CJgoon joined the game
-[01:03:29] [Server thread/INFO]: [CJgoon: Played sound minecraft:ambient.cave to CJgoon]
-[01:04:59] [Server thread/WARN]: CJgoon moved too quickly! 10.383673087354055,0.0,3.2604802895762077
-[01:05:11] [Server thread/INFO]: CJgoon lost connection: Disconnected
-[01:05:11] [Server thread/INFO]: CJgoon left the game
-[01:05:25] [Server thread/INFO]: CJgoon[/127.20.83.237:52487] logged in with entity id 54146 at (3493.2656616503878, 119.00411898640823, -2131.09373977753)
-[01:05:25] [Server thread/INFO]: CJgoon joined the game
-[01:07:40] [Server thread/INFO]: [Not Secure] <CJgoon> pingaaaaaaaaaaaaaa
-[01:09:19] [Server thread/INFO]: [CJgoon: Teleported CJgoon to 432121.500000, 66.846696, 31013.861669]
-[01:09:40] [Server thread/WARN]: CJgoon moved too quickly! -2.7980015394859947,5.624992065998697,8.46459211241745
-[01:11:21] [Server thread/WARN]: CJgoon moved too quickly! 0.5336044300347567,-12.784277490469123,-1.6138900309742894
-[01:11:37] [Server thread/WARN]: CJgoon moved too quickly! -9.505986102973111,3.3750001340140017,2.3575109376870387
-[01:11:46] [Server thread/WARN]: CJgoon moved too quickly! -5.792726960033178,3.749999195291224,7.5352741559290735
-[01:11:48] [Server thread/WARN]: CJgoon moved too quickly! 5.017357812670525,0.0,8.929343611409422
-[01:12:37] [Server thread/WARN]: CJgoon moved too quickly! 1.036690225591883,2.3646000939607603,-9.7170893411203
-[01:13:22] [Server thread/WARN]: CJgoon moved too quickly! 8.199802880175412,3.3749974956313338,-4.858902685798967
-[01:16:26] [Server thread/INFO]: [CJgoon: Set the target tick rate to 50.0 per second]
-[01:16:29] [Server thread/WARN]: CJgoon moved too quickly! 9.17071690526791,0.0,4.722823505500855
-[01:16:47] [Server thread/INFO]: [CJgoon: Set the target tick rate to 20.0 per second]
-[01:17:29] [Server thread/WARN]: CJgoon moved too quickly! 10.338001397321932,0.0,3.4186007479620457
-[01:18:34] [Server thread/WARN]: CJgoon moved too quickly! -7.453715990995988,0.0,-7.93788935381599
-[01:18:38] [Server thread/INFO]: [CJgoon: Set the time to 1000]
-[01:20:49] [Server thread/WARN]: CJgoon moved too quickly! -6.537532574438956,0.0,-8.706202172350459
-[01:21:30] [Server thread/INFO]: [CJgoon: Gave 1 [String] to MONARKA]
-[01:22:59] [Server thread/INFO]: [CJgoon: Gave 1 [String] to MONARKA]
-[01:23:08] [Server thread/INFO]: [CJgoon: Gave 1 [Slimeball] to MONARKA]
-[01:23:59] [Server thread/INFO]: [CJgoon: Gave 10 [String] to MONARKA]
-[01:25:00] [Server thread/INFO]: [CJgoon: Teleported CJgoon to MONARKA]
-[01:28:15] [Server thread/INFO]: CJgoon has made the advancement [A Throwaway Joke]
-[01:28:34] [Server thread/INFO]: [CJgoon: The game is frozen]
-[01:29:09] [Server thread/INFO]: MONARKA fell from a high place
-[01:29:12] [Server thread/INFO]: [CJgoon: The game is running normally]
-[01:31:45] [Server thread/INFO]: MONARKA lost connection: Disconnected
-[01:31:45] [Server thread/INFO]: MONARKA left the game
-[01:32:13] [Server thread/INFO]: [CJgoon: The game is frozen]
-[01:33:02] [Server thread/INFO]: [CJgoon: The game is running normally]
-[01:33:13] [Server thread/WARN]: CJgoon moved too quickly! 10.048253572545946,0.0,3.7149154357612133
-[01:33:19] [Server thread/WARN]: CJgoon moved too quickly! 10.88471410702914,0.0,0.2566091809421778
-[01:50:25] [Server thread/INFO]: [CJgoon: Set the time to 1000]
-[01:56:45] [Server thread/INFO]: CJgoon lost connection: Timed out
-[01:56:45] [Server thread/INFO]: CJgoon left the game
-[01:57:05] [Server thread/INFO]: CJgoon[/127.20.83.237:37367] logged in with entity id 87607 at (5442314.42920426, 74.4444735949128, 1.345429610144076E7)
-[01:57:05] [Server thread/INFO]: CJgoon joined the game
-[01:59:13] [Server thread/INFO]: CJgoon lost connection: Disconnected
-[01:59:13] [Server thread/INFO]: CJgoon left the game
-[01:59:26] [Server thread/INFO]: CJgoon[/127.20.83.237:43651] logged in with entity id 88039 at (5442305.146541073, 66.1995422920348, 1.3454307088751724E7)
-[01:59:26] [Server thread/INFO]: CJgoon joined the game
-[02:00:37] [Server thread/INFO]: [CJgoon: Set the time to 1000]
-[02:03:38] [Server thread/INFO]: [CJgoon: Set the weather to clear]
-[02:11:19] [Server thread/INFO]: [CJgoon: Set the time to 1000]
-[02:16:13] [Server thread/INFO]: [CJgoon: Set the weather to clear]
-[02:21:12] [Server thread/INFO]: CJgoon lost connection: Timed out
-[02:21:12] [Server thread/INFO]: CJgoon left the game
-[02:21:20] [Server thread/INFO]: CJgoon[/127.24.140.231:60183] logged in with entity id 91685 at (5442298.212890674, 66.1435980052187, 1.345430155387129E7)
-[02:21:20] [Server thread/INFO]: CJgoon joined the game
-[02:22:02] [Server thread/INFO]: [CJgoon: Set the time to 1000]
-[02:34:10] [Server thread/INFO]: [CJgoon: Set the time to 1000]
+[12:14:04] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[12:14:06] [ServerMain/INFO]: Loaded 1407 recipes
+[12:14:06] [ServerMain/INFO]: Loaded 1520 advancements
+[12:14:06] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[12:14:06] [Server thread/INFO]: Loading properties
+[12:14:06] [Server thread/INFO]: Default game type: SURVIVAL
+[12:14:06] [Server thread/INFO]: Generating keypair
+[12:14:07] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:14:07] [Server thread/INFO]: Using epoll channel type
+[12:14:07] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[12:14:07] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[12:14:07] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[12:14:07] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[12:14:07] [Server thread/INFO]: Preparing level "world"
+[12:14:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:14:11] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:14:11] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:14:11] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:14:11] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:14:11] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:14:11] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:14:11] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:14:11] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:14:11] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:14:11] [Server thread/INFO]: Time elapsed: 4356 ms
+[12:14:11] [Server thread/INFO]: Done (4.704s)! For help, type "help"
+[12:14:16] [Server thread/INFO]: CJgoon[/127.95.94.234:44213] logged in with entity id 13 at (5442305.0433651805, 63.0, 1.345430293574774E7)
+[12:14:16] [Server thread/INFO]: CJgoon joined the game
+[12:14:49] [Server thread/INFO]: [CJgoon: Set the weather to clear]
+[12:15:09] [Server thread/INFO]: [CJgoon: Set own game mode to Survival Mode]
+[12:20:12] [Server thread/INFO]: [CJgoon: Gave 1999 [Cobblestone] to CJgoon]
+[12:22:16] [Server thread/INFO]: [CJgoon: Gave 2000 [Cobblestone] to CJgoon]
+[12:22:46] [Server thread/INFO]: MONARKA[/127.95.94.234:44991] logged in with entity id 1577 at (5442408.0669417875, 120.0, 1.3454734657323027E7)
+[12:22:46] [Server thread/INFO]: MONARKA joined the game
