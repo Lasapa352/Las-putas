@@ -64,3 +64,6 @@
 [12:53:40] [Server thread/WARN]: MONARKA moved too quickly! -8.911303260363638,1.7531999805212024,-4.389420788735151
 [12:54:53] [Server thread/INFO]: [CJgoon: Gave 1 [Beacon] to CJgoon]
 [12:55:22] [Server thread/INFO]: [CJgoon: Gave 1 [Iron Ingot] to CJgoon]
+[12:58:05] [Server thread/INFO]: [CJgoon: Set the time to 1000]
+[12:58:10] [Server thread/INFO]: [CJgoon: Set the weather to clear]
+[12:58:31] [Server thread/INFO]: Made CJgoon no longer a server operator
