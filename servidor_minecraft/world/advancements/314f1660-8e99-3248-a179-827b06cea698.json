@@ -7,11 +7,18 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2025-08-28 00:44:28 +0000",
+      "minecraft:snowy_slopes": "2025-08-28 00:40:18 +0000",
       "minecraft:beach": "2025-08-27 21:24:48 +0000",
       "minecraft:forest": "2025-08-27 21:09:25 +0000",
       "minecraft:sparse_jungle": "2025-08-27 21:14:41 +0000",
+      "minecraft:deep_ocean": "2025-08-28 00:44:56 +0000",
       "minecraft:river": "2025-08-27 21:13:38 +0000",
       "minecraft:lukewarm_ocean": "2025-08-27 21:23:43 +0000",
+      "minecraft:ocean": "2025-08-28 00:44:10 +0000",
+      "minecraft:cherry_grove": "2025-08-28 00:39:20 +0000",
+      "minecraft:sunflower_plains": "2025-08-28 00:43:17 +0000",
+      "minecraft:meadow": "2025-08-28 00:40:48 +0000",
       "minecraft:savanna": "2025-08-27 20:59:20 +0000",
       "minecraft:windswept_savanna": "2025-08-27 21:14:07 +0000",
       "minecraft:plains": "2025-08-27 21:14:00 +0000"
@@ -367,6 +374,7 @@
       "minecraft:skeleton": "2025-08-27 21:24:17 +0000",
       "minecraft:spider": "2025-08-27 21:12:44 +0000",
       "minecraft:zombie": "2025-08-27 21:34:27 +0000",
+      "minecraft:creeper": "2025-08-28 00:36:28 +0000",
       "minecraft:drowned": "2025-08-27 22:29:50 +0000"
     },
     "done": false
@@ -1298,6 +1306,84 @@
   "minecraft:recipes/misc/leaf_litter": {
     "criteria": {
       "has_leaves": "2025-08-28 00:25:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-08-28 00:39:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-08-28 00:50:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-08-28 00:50:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-08-28 00:50:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-08-28 00:50:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-08-28 00:50:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-08-28 00:50:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-08-28 00:36:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-08-28 00:50:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-08-28 00:50:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-08-28 00:36:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/saddle": {
+    "criteria": {
+      "has_leather": "2025-08-28 00:50:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-08-28 00:50:19 +0000"
     },
     "done": true
   },

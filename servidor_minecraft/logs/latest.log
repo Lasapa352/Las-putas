@@ -15,3 +15,41 @@
 [00:20:50] [Server thread/INFO]: [CJgoon: Set the weather to clear]
 [00:23:57] [Server thread/INFO]: Gave 127 [Carrot] to MONARKA
 [00:24:09] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=1901, y=116, z=1238} jb{x=1902, y=116, z=1239}
+[00:32:37] [Server thread/INFO]: CJgoon lost connection: Disconnected
+[00:32:37] [Server thread/INFO]: CJgoon left the game
+[00:32:42] [Server thread/INFO]: CJgoon[/127.20.83.237:60101] logged in with entity id 24729 at (-225.86139711579773, 67.31702953440342, 211.68335398715274)
+[00:32:42] [Server thread/INFO]: CJgoon joined the game
+[00:33:57] [Server thread/INFO]: Locating element minecraft:cherry_grove took 966 ms
+[00:34:20] [Server thread/INFO]: [CJgoon: Teleported MONARKA to 372.500000, 64.000000, 514.412903]
+[00:35:24] [Server thread/INFO]: [CJgoon: Teleported MONARKA to CJgoon]
+[00:35:42] [Server thread/INFO]: Locating element minecraft:cherry_grove took 1001 ms
+[00:35:54] [Server thread/INFO]: [CJgoon: Set the time to 1000]
+[00:36:08] [Server thread/INFO]: Locating element minecraft:cherry_grove took 903 ms
+[00:37:29] [Server thread/INFO]: Gave 89 [Carrot] to CJgoon
+[00:39:19] [Server thread/INFO]: [CJgoon: Teleported CJgoon to 1026.500000, 64.000000, -1493.500000]
+[00:39:29] [Server thread/INFO]: CJgoon suffocated in a wall
+[00:39:42] [Server thread/INFO]: [CJgoon: Set own game mode to Creative Mode]
+[00:39:48] [Server thread/INFO]: [CJgoon: Teleported CJgoon to 1026.500000, 64.000000, -1493.500000]
+[00:41:09] [Server thread/INFO]: [CJgoon: Teleported CJgoon to 77445.500000, 159.481800, 33074.459553]
+[00:41:30] [Server thread/INFO]: Locating element minecraft:cherry_grove took 860 ms
+[00:41:33] [Server thread/INFO]: [CJgoon: Teleported CJgoon to 79015.500000, -37.000000, 34194.500000]
+[00:41:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3745ms or 74 ticks behind
+[00:42:21] [Server thread/INFO]: [CJgoon: Teleported CJgoon to 9999999.500000, 125.251166, 10034201.888235]
+[00:42:24] [Server thread/WARN]: MONARKA moved too quickly! 4.621467750509765,-0.756759288177264,-9.375739494720879
+[00:42:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2593ms or 51 ticks behind
+[00:42:52] [Server thread/INFO]: Locating element minecraft:cherry_grove took 1054 ms
+[00:42:55] [Server thread/INFO]: [CJgoon: Teleported CJgoon to 10001352.500000, 121.000000, 10032552.500000]
+[00:44:09] [Server thread/INFO]: [CJgoon: Teleported CJgoon to 5443225.500000, 142.451335, 13453725.903256]
+[00:44:30] [Server thread/WARN]: CJgoon moved too quickly! -1.0760756358504295,-10.791263155724295,1.5900162514299154
+[00:45:17] [Server thread/INFO]: Villager cuf['Nitwit'/33427, l='ServerLevel[world]', x=5443127.63, y=66.00, z=13454110.28] died, message: 'Nitwit suffocated in a wall'
+[00:45:21] [Server thread/INFO]: [CJgoon: Set the time to 1000]
+[00:45:29] [Server thread/INFO]: Locating element minecraft:cherry_grove took 51 ms
+[00:45:34] [Server thread/INFO]: [CJgoon: Teleported CJgoon to 5442755.500000, 80.000000, 13454562.500000]
+[00:46:51] [Server thread/INFO]: [CJgoon: Teleported MONARKA to CJgoon]
+[00:47:17] [Server thread/INFO]: MONARKA was smashed by CJgoon
+[00:47:26] [Server thread/INFO]: [CJgoon: Teleported MONARKA to CJgoon]
+[00:51:00] [Server thread/INFO]: CJgoon was killed
+[00:51:00] [Server thread/INFO]: [CJgoon: Killed CJgoon]
+[00:51:06] [Server thread/INFO]: [CJgoon: Set own game mode to Survival Mode]
+[00:51:14] [Server thread/INFO]: [CJgoon: Set own game mode to Creative Mode]
+[00:52:31] [Server thread/INFO]: MONARKA has made the advancement [The Parrots and the Bats]
