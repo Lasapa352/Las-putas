@@ -237,7 +237,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2025-08-27 21:08:20 +0000",
-      "melon_slice": "2025-08-27 21:37:12 +0000"
+      "melon_slice": "2025-08-27 21:37:12 +0000",
+      "carrot": "2025-08-28 00:07:46 +0000"
     },
     "done": false
   },
@@ -1243,6 +1244,54 @@
   "minecraft:nether/create_full_beacon": {
     "criteria": {
       "beacon": "2025-08-27 23:51:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-08-27 23:57:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-08-28 00:03:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-08-28 00:03:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-08-28 00:03:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-08-28 00:03:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-08-28 00:03:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-08-28 00:03:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-08-28 00:07:38 +0000"
     },
     "done": true
   },
