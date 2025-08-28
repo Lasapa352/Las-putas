@@ -53,3 +53,55 @@
 [00:51:06] [Server thread/INFO]: [CJgoon: Set own game mode to Survival Mode]
 [00:51:14] [Server thread/INFO]: [CJgoon: Set own game mode to Creative Mode]
 [00:52:31] [Server thread/INFO]: MONARKA has made the advancement [The Parrots and the Bats]
+[00:53:44] [Server thread/INFO]: MONARKA has made the advancement [Stay Hydrated!]
+[00:54:47] [Server thread/INFO]: [CJgoon: Set the time to 1000]
+[00:54:56] [Server thread/INFO]: [Not Secure] <CJgoon> el barra ban
+[00:55:24] [Server thread/WARN]: CJgoon moved too quickly! -6.414973453971044,0.0,-8.51750866380047
+[00:56:37] [Server thread/WARN]: CJgoon moved too quickly! 0.6644937266386535,3.7466194923685094,-10.144749060433696
+[00:57:35] [Server thread/WARN]: CJgoon moved too quickly! 4.7918768793483935,0.0,-9.745759622934202
+[00:57:36] [Server thread/INFO]: MONARKA has made the advancement [A Seedy Place]
+[00:58:33] [Server thread/INFO]: [CJgoon: Played sound minecraft:ambient.crimson_forest.mood to CJgoon]
+[01:00:43] [Server thread/WARN]: CJgoon moved too quickly! 7.898962348631642,3.7497372691510122,-6.481226176874088
+[01:00:54] [Server thread/WARN]: CJgoon moved too quickly! 9.56998684508767,0.0,-5.191190891529914
+[01:01:46] [Server thread/WARN]: CJgoon moved too quickly! 10.570158518508151,0.0,2.494389079775601
+[01:02:02] [Server thread/WARN]: CJgoon moved too quickly! 10.585047115298266,0.0,2.3264712744205553
+[01:02:28] [Server thread/WARN]: CJgoon moved too quickly! 8.071512203472139,5.6250002235164445,-3.3004593064547407
+[01:02:40] [Server thread/WARN]: CJgoon moved too quickly! 9.511424144466673,1.7572195907136745,-4.978485184392866
+[01:02:40] [Server thread/INFO]: CJgoon lost connection: Disconnected
+[01:02:40] [Server thread/INFO]: CJgoon left the game
+[01:02:51] [Server thread/INFO]: com.mojang.authlib.GameProfile@112129e7[id=314f1660-8e99-3248-a179-827b06cea698,name=CJgoon,properties={}] lost connection: Disconnected
+[01:02:53] [Server thread/INFO]: CJgoon[/127.20.83.237:48407] logged in with entity id 49749 at (1917.8633051276877, 84.89039791137515, -1938.395050903885)
+[01:02:53] [Server thread/INFO]: Connection closed during protocol change
+[01:02:53] [Server thread/INFO]: CJgoon joined the game
+[01:02:53] [Server thread/INFO]: CJgoon lost connection: Disconnected
+[01:02:53] [Server thread/INFO]: CJgoon left the game
+[01:02:58] [Server thread/INFO]: CJgoon (/127.20.83.237:60631) lost connection: Disconnected
+[01:03:03] [Server thread/INFO]: CJgoon (/127.20.83.237:38631) lost connection: Disconnected
+[01:03:05] [Server thread/INFO]: CJgoon (/127.20.83.237:50931) lost connection: Disconnected
+[01:03:08] [Server thread/INFO]: CJgoon[/127.20.83.237:55017] logged in with entity id 49801 at (1917.8633051276877, 84.89039791137515, -1938.395050903885)
+[01:03:08] [Server thread/INFO]: CJgoon joined the game
+[01:03:29] [Server thread/INFO]: [CJgoon: Played sound minecraft:ambient.cave to CJgoon]
+[01:04:59] [Server thread/WARN]: CJgoon moved too quickly! 10.383673087354055,0.0,3.2604802895762077
+[01:05:11] [Server thread/INFO]: CJgoon lost connection: Disconnected
+[01:05:11] [Server thread/INFO]: CJgoon left the game
+[01:05:25] [Server thread/INFO]: CJgoon[/127.20.83.237:52487] logged in with entity id 54146 at (3493.2656616503878, 119.00411898640823, -2131.09373977753)
+[01:05:25] [Server thread/INFO]: CJgoon joined the game
+[01:07:40] [Server thread/INFO]: [Not Secure] <CJgoon> pingaaaaaaaaaaaaaa
+[01:09:19] [Server thread/INFO]: [CJgoon: Teleported CJgoon to 432121.500000, 66.846696, 31013.861669]
+[01:09:40] [Server thread/WARN]: CJgoon moved too quickly! -2.7980015394859947,5.624992065998697,8.46459211241745
+[01:11:21] [Server thread/WARN]: CJgoon moved too quickly! 0.5336044300347567,-12.784277490469123,-1.6138900309742894
+[01:11:37] [Server thread/WARN]: CJgoon moved too quickly! -9.505986102973111,3.3750001340140017,2.3575109376870387
+[01:11:46] [Server thread/WARN]: CJgoon moved too quickly! -5.792726960033178,3.749999195291224,7.5352741559290735
+[01:11:48] [Server thread/WARN]: CJgoon moved too quickly! 5.017357812670525,0.0,8.929343611409422
+[01:12:37] [Server thread/WARN]: CJgoon moved too quickly! 1.036690225591883,2.3646000939607603,-9.7170893411203
+[01:13:22] [Server thread/WARN]: CJgoon moved too quickly! 8.199802880175412,3.3749974956313338,-4.858902685798967
+[01:16:26] [Server thread/INFO]: [CJgoon: Set the target tick rate to 50.0 per second]
+[01:16:29] [Server thread/WARN]: CJgoon moved too quickly! 9.17071690526791,0.0,4.722823505500855
+[01:16:47] [Server thread/INFO]: [CJgoon: Set the target tick rate to 20.0 per second]
+[01:17:29] [Server thread/WARN]: CJgoon moved too quickly! 10.338001397321932,0.0,3.4186007479620457
+[01:18:34] [Server thread/WARN]: CJgoon moved too quickly! -7.453715990995988,0.0,-7.93788935381599
+[01:18:38] [Server thread/INFO]: [CJgoon: Set the time to 1000]
+[01:20:49] [Server thread/WARN]: CJgoon moved too quickly! -6.537532574438956,0.0,-8.706202172350459
+[01:21:30] [Server thread/INFO]: [CJgoon: Gave 1 [String] to MONARKA]
+[01:22:59] [Server thread/INFO]: [CJgoon: Gave 1 [String] to MONARKA]
+[01:23:08] [Server thread/INFO]: [CJgoon: Gave 1 [Slimeball] to MONARKA]
