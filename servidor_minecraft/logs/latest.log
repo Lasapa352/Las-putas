@@ -67,3 +67,20 @@
 [12:58:05] [Server thread/INFO]: [CJgoon: Set the time to 1000]
 [12:58:10] [Server thread/INFO]: [CJgoon: Set the weather to clear]
 [12:58:31] [Server thread/INFO]: Made CJgoon no longer a server operator
+[13:10:59] [Server thread/INFO]: Set the time to 1000
+[13:11:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[13:11:05] [Server thread/INFO]: t/weather clear<--[HERE]
+[13:11:11] [Server thread/INFO]: Set CJgoon's game mode to Creative Mode
+[13:11:26] [Server thread/INFO]: A player is required to run this command here
+[13:11:42] [Server thread/INFO]: Set CJgoon's game mode to Survival Mode
+[13:11:47] [Server thread/INFO]: CJgoon fell from a high place
+[13:12:27] [Server thread/INFO]: Villager cuf['Farmer'/20345, l='ServerLevel[world]', x=5442318.16, y=63.00, z=13454301.54] died, message: 'Farmer was slain by Zombie'
+[13:12:34] [Server thread/INFO]: Set CJgoon's game mode to Creative Mode
+[13:12:53] [Server thread/INFO]: Made CJgoon a server operator
+[13:13:00] [Server thread/INFO]: [CJgoon: Set the weather to clear]
+[13:13:40] [Server thread/INFO]: [CJgoon: Set own game mode to Survival Mode]
+[13:15:57] [Server thread/INFO]: [CJgoon: Made CJgoon no longer a server operator]
+[13:16:05] [Server thread/INFO]: Set CJgoon's game mode to Creative Mode
+[13:16:22] [Server thread/INFO]: Set CJgoon's game mode to Survival Mode
+[13:17:42] [Server thread/INFO]: Set CJgoon's game mode to Creative Mode
+[13:25:22] [Server thread/INFO]: Set the time to 1000
