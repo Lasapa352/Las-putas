@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "314f1660-8e99-3248-a179-827b06cea698",
+    "name": "CJgoon",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

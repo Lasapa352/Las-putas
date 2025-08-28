@@ -11,3 +11,7 @@
 [00:10:38] [Server thread/INFO]: CJgoon left the game
 [00:10:40] [Server thread/INFO]: CJgoon[/127.20.83.237:35077] logged in with entity id 9876 at (-206.93402451806503, 64.0, 199.5214391616694)
 [00:10:40] [Server thread/INFO]: CJgoon joined the game
+[00:20:12] [Server thread/INFO]: Made CJgoon a server operator
+[00:20:50] [Server thread/INFO]: [CJgoon: Set the weather to clear]
+[00:23:57] [Server thread/INFO]: Gave 127 [Carrot] to MONARKA
+[00:24:09] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=1901, y=116, z=1238} jb{x=1902, y=116, z=1239}
