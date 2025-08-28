@@ -118,3 +118,21 @@
 [01:33:13] [Server thread/WARN]: CJgoon moved too quickly! 10.048253572545946,0.0,3.7149154357612133
 [01:33:19] [Server thread/WARN]: CJgoon moved too quickly! 10.88471410702914,0.0,0.2566091809421778
 [01:50:25] [Server thread/INFO]: [CJgoon: Set the time to 1000]
+[01:56:45] [Server thread/INFO]: CJgoon lost connection: Timed out
+[01:56:45] [Server thread/INFO]: CJgoon left the game
+[01:57:05] [Server thread/INFO]: CJgoon[/127.20.83.237:37367] logged in with entity id 87607 at (5442314.42920426, 74.4444735949128, 1.345429610144076E7)
+[01:57:05] [Server thread/INFO]: CJgoon joined the game
+[01:59:13] [Server thread/INFO]: CJgoon lost connection: Disconnected
+[01:59:13] [Server thread/INFO]: CJgoon left the game
+[01:59:26] [Server thread/INFO]: CJgoon[/127.20.83.237:43651] logged in with entity id 88039 at (5442305.146541073, 66.1995422920348, 1.3454307088751724E7)
+[01:59:26] [Server thread/INFO]: CJgoon joined the game
+[02:00:37] [Server thread/INFO]: [CJgoon: Set the time to 1000]
+[02:03:38] [Server thread/INFO]: [CJgoon: Set the weather to clear]
+[02:11:19] [Server thread/INFO]: [CJgoon: Set the time to 1000]
+[02:16:13] [Server thread/INFO]: [CJgoon: Set the weather to clear]
+[02:21:12] [Server thread/INFO]: CJgoon lost connection: Timed out
+[02:21:12] [Server thread/INFO]: CJgoon left the game
+[02:21:20] [Server thread/INFO]: CJgoon[/127.24.140.231:60183] logged in with entity id 91685 at (5442298.212890674, 66.1435980052187, 1.345430155387129E7)
+[02:21:20] [Server thread/INFO]: CJgoon joined the game
+[02:22:02] [Server thread/INFO]: [CJgoon: Set the time to 1000]
+[02:34:10] [Server thread/INFO]: [CJgoon: Set the time to 1000]
